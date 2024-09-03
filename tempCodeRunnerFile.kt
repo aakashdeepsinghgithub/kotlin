@@ -1,0 +1,1 @@
+ // val square = Array(5) ( in-> i*i)
